@@ -1,0 +1,122 @@
+# packages in environment at /home/infected/anaconda3/envs/tfGPU:
+#
+# Name                    Version                   Build  Channel
+alabaster                 0.7.10           py35h6fb19ab_0  
+asn1crypto                0.24.0                   py35_0  
+attrs                     17.4.0                   py35_0    anaconda
+babel                     2.5.3                    py35_0  
+backcall                  0.1.0                    py35_0  
+bleach                    2.1.3                    py35_0  
+ca-certificates           2018.03.07                    0  
+certifi                   2018.4.16                py35_0  
+cffi                      1.11.5           py35h9745a5d_0  
+chardet                   3.0.4            py35hb6e9ddf_1  
+cryptography              2.2.2            py35h14c3975_0  
+cycler                    0.10.0           py35hc4d5149_0  
+cython                    0.28.2           py35h14c3975_0    anaconda
+dbus                      1.13.2               h714fa37_1  
+decorator                 4.3.0                    py35_0  
+docutils                  0.14             py35hd11081d_0  
+entrypoints               0.2.3            py35h48174a2_2  
+expat                     2.2.5                he0dffb1_0  
+fontconfig                2.11.1                        6  
+freetype                  2.5.5                         2  
+glib                      2.56.1               h000015b_0  
+gmp                       6.1.2                h6c8ec71_1  
+gst-plugins-base          1.14.0               hbbd80ab_1  
+gstreamer                 1.14.0               hb453b48_1  
+html5lib                  1.0.1            py35h2f9c1c0_0  
+icu                       58.2                 h9c2bf20_1  
+idna                      2.6              py35h8605a33_1  
+imagesize                 1.0.0                    py35_0  
+intel-openmp              2018.0.0                      8    anaconda
+ipykernel                 4.8.2                    py35_0  
+ipython                   6.3.1                    py35_0  
+ipython_genutils          0.2.0            py35hc9e07d0_0  
+jedi                      0.12.0                   py35_1  
+jinja2                    2.10             py35h480ab6d_0  
+jpeg                      9b                   h024ee3a_2  
+jsonschema                2.6.0            py35h4395190_0  
+jupyter_client            5.2.3                    py35_0  
+jupyter_core              4.4.0            py35ha89e94b_0  
+libedit                   3.1                  heed3624_0  
+libffi                    3.2.1                hd88cf55_4  
+libgcc-ng                 7.2.0                hdf63c60_3  
+libgfortran-ng            7.2.0                hdf63c60_3    anaconda
+libpng                    1.6.34               hb9fc6fc_0  
+libsodium                 1.0.16               h1bed415_0  
+libstdcxx-ng              7.2.0                hdf63c60_3  
+libxcb                    1.13                 h1bed415_1  
+libxml2                   2.9.8                hf84eae3_0  
+markupsafe                1.0              py35h4f4fcf6_1  
+matplotlib                1.5.1               np111py35_0  
+mistune                   0.8.3            py35h14c3975_1  
+mkl                       2018.0.2                      1    anaconda
+mkl_fft                   1.0.1            py35h3010b51_0    anaconda
+mkl_random                1.0.1            py35h629b387_0    anaconda
+more-itertools            4.1.0                    py35_0    anaconda
+nbconvert                 5.3.1            py35hc5194e3_0  
+nbformat                  4.4.0            py35h12e6e07_0  
+ncurses                   6.0                  h9df7e31_2  
+numpy                     1.11.3           py35h3dfced4_4  
+openssl                   1.0.2o               h20670df_0  
+packaging                 17.1                     py35_0  
+pandas                    0.23.3           py35h04863e7_0  
+pandoc                    1.19.2.1             hea2e7c5_1  
+pandocfilters             1.4.2            py35h1565a15_1  
+parso                     0.2.0                    py35_0  
+pcre                      8.42                 h439df22_0  
+pep8                      1.7.1                    py35_0  
+pexpect                   4.5.0                    py35_0  
+pickleshare               0.7.4            py35hd57304d_0  
+pip                       10.0.1                   py35_0  
+pluggy                    0.6.0            py35hb428803_0    anaconda
+progressbar2              3.37.1                   py35_0    anaconda
+prompt_toolkit            1.0.15           py35hc09de7a_0  
+psutil                    5.4.5            py35h14c3975_0  
+ptyprocess                0.5.2            py35h38ce0a3_0  
+py                        1.5.3                    py35_0    anaconda
+pycparser                 2.18             py35h61b3040_1  
+pyflakes                  1.6.0            py35hd1da72e_0  
+pygments                  2.2.0            py35h0f41973_0  
+pyopenssl                 17.5.0           py35h4f8b8c8_0  
+pyparsing                 2.2.0            py35h041ed72_1  
+pyqt                      4.11.4                   py35_4  
+pysocks                   1.6.8                    py35_0  
+pytest                    3.5.1                    py35_0    anaconda
+pytest-runner             4.2                      py35_0    anaconda
+python                    3.5.5                hc3d631a_3  
+python-dateutil           2.7.2                    py35_0  
+python-utils              2.3.0                    py35_0    anaconda
+pytz                      2018.4                   py35_0  
+pyzmq                     17.0.0           py35h14c3975_0  
+qt                        4.8.7                         3  
+qtconsole                 4.3.1            py35h4626a06_0  
+readline                  7.0                  ha6073c6_4  
+requests                  2.18.4           py35hb9e6ad1_1  
+rope                      0.10.7           py35h986144c_0  
+scikit-learn              0.19.1           py35hbf1f462_0    anaconda
+scipy                     1.0.1            py35hfc37229_0    anaconda
+setuptools                39.1.0                   py35_0  
+simplegeneric             0.8.1                    py35_2  
+sip                       4.18                     py35_0  
+six                       1.11.0           py35h423b573_1  
+snowballstemmer           1.2.1            py35h5435977_0  
+sphinx                    1.7.4                    py35_0  
+sphinxcontrib             1.0              py35hcb7efd2_1  
+sphinxcontrib-websupport  1.0.1            py35h3537809_1  
+spyder                    2.3.8                    py35_1  
+spyder-app                2.3.8                    py35_0  
+sqlite                    3.23.1               he433501_0  
+testpath                  0.3.1            py35had42eaf_0  
+tk                        8.6.7                hc745277_3  
+tornado                   5.0.2                    py35_0  
+traitlets                 4.3.2            py35ha522a97_0  
+typing                    3.6.4                    py35_0  
+urllib3                   1.22             py35h2ab6e29_0  
+wcwidth                   0.1.7            py35hcd08066_0  
+webencodings              0.5.1            py35hb6cf162_1  
+wheel                     0.31.0                   py35_0  
+xz                        5.2.3                h5e939de_4  
+zeromq                    4.2.5                h439df22_0  
+zlib                      1.2.11               ha838bed_2  
